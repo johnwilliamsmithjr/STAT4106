@@ -1,7 +1,7 @@
 # STAT4106
 John W. Smith's teaching material for STAT4106 (Theoretical Statistics II)
 
-This material is designed for a second semester in statistical theory, for the advanced undergraduate or beginning graduate student. The lecture materials, found in the 'Lecture' directory were all created by me. Special thanks to Dr. Bill Woodall, who both graciously shared his lecture material with me and originally taught me this course. 
+This material is designed for a second semester in statistical theory, for the advanced undergraduate or beginning graduate student. The lecture materials, found in the 'Lecture' directory were created by me, but not without inspiration. Special thanks to Dr. Bill Woodall, who both graciously shared his lecture material with me and originally taught me this course as an undergraduate many years ago. 
 
 Topics covered include:
 
